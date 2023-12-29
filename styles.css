@@ -5,15 +5,18 @@ body{
 h1 , h2{
 	text-align:center;
 }
+a{
+	text-decoration:none;
+}
 li{
 	list-style-type:none;
 }
-.play-container player_one{
+.player_one{
 	background-color:rgb(255,255,255);
 	padding:20px;
 	border-radius:10px;
 }
-.play-container player_two{
+.player_two{
 	background-color:rgb(255,255,255);
 	padding:20px;
 	border-radius:10px;
